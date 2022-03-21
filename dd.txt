@@ -1,0 +1,5 @@
+{
+	"ip":"speedrunsabalaternos.me",
+	"port": "30215",
+	"name": "dukandar"
+}
